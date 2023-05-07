@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CPS车辆位置上报</string>
+    <string name="btn_con_text">连接</string>
+    <string name="btn_discon_text">断开连接</string>
+    <string name="submit_text">提交信息</string>
+    <string name="submit_off_text">停止提交</string>
+    <string name="unbind_text">停止后台</string>
+    <string name="bind_text">连接后台</string>
+    <string name="head_line">行车建议</string>
+    <string name="gps_data">GPS定位信息</string>
+    <string name="suggest_tip">建议信息</string>
+    <string name="uri_input">服务器地址</string>
+    <string name="check_text">自动在ws链接后拼接ID</string>
+    <string name="ws_server">ws://1.13.0.2:8088</string>
+    <string name="ws_server_reply_default">{"suggest":"继续以当前速度行驶"}</string>
+    <string name="server_reply_tip">继续以当前速度行驶</string>
+    <string name="restart_tip">连接对象已释放，请点击停止后台重新建立连接对象</string>
+    <string name="lat_text_template">纬度: %f</string>
+    <string name="lat_text_default">纬度: 暂无数据</string>
+    <string name="lng_text_template">经度: %f</string>
+    <string name="lng_text_default">经度: 暂无数据</string>
+    <string name="spd_text_template">速度: %f km/h</string>
+    <string name="spd_text_default">速度: 暂无数据</string>
+</resources>
